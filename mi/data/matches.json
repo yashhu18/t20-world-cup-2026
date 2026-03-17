@@ -1,0 +1,213 @@
+[
+    {
+      "team1": "Netherlands",
+      "score1": 147,
+      "team2": "Pakistan",
+      "score2": 148,
+      "winner": "Pakistan"
+    },
+    {
+      "team1": "West Indies",
+      "score1": 182,
+      "team2": "Scotland",
+      "score2": 147,
+      "winner": "West Indies"
+    },
+    {
+      "team1": "India",
+      "score1": 161,
+      "team2": "United States",
+      "score2": 132,
+      "winner": "India"
+    },
+    {
+      "team1": "Afghanistan",
+      "score1": 182,
+      "team2": "New Zealand",
+      "score2": 183,
+      "winner": "New Zealand"
+    },
+    {
+      "team1": "England",
+      "score1": 184,
+      "team2": "Nepal",
+      "score2": 180,
+      "winner": "England"
+    },
+    {
+      "team1": "Sri Lanka",
+      "score1": 163,
+      "team2": "Ireland",
+      "score2": 143,
+      "winner": "Sri Lanka"
+    },
+    {
+      "team1": "Scotland",
+      "score1": 207,
+      "team2": "Italy",
+      "score2": 134,
+      "winner": "Scotland"
+    },
+    {
+      "team1": "Zimbabwe",
+      "score1": 106,
+      "team2": "Oman",
+      "score2": 103,
+      "winner": "Zimbabwe"
+    },
+    {
+      "team1": "South Africa",
+      "score1": 213,
+      "team2": "Canada",
+      "score2": 156,
+      "winner": "South Africa"
+    },
+  
+    {
+      "team1": "United States",
+      "score1": 199,
+      "team2": "Namibia",
+      "score2": 168,
+      "winner": "United States"
+    },
+    {
+      "team1": "West Indies",
+      "score1": 134,
+      "team2": "Nepal",
+      "score2": 133,
+      "winner": "West Indies"
+    },
+    {
+      "team1": "South Africa",
+      "score1": 178,
+      "team2": "New Zealand",
+      "score2": 175,
+      "winner": "South Africa"
+    },
+    {
+      "team1": "Namibia",
+      "score1": 156,
+      "team2": "Netherlands",
+      "score2": 159,
+      "winner": "Netherlands"
+    },
+  
+    {
+      "team1": "India",
+      "score1": 256,
+      "team2": "Zimbabwe",
+      "score2": 184,
+      "winner": "India"
+    },
+    {
+      "team1": "West Indies",
+      "score1": 254,
+      "team2": "Zimbabwe",
+      "score2": 147,
+      "winner": "West Indies"
+    },
+    {
+      "team1": "England",
+      "score1": 166,
+      "team2": "Pakistan",
+      "score2": 164,
+      "winner": "England"
+    },
+    {
+      "team1": "New Zealand",
+      "score1": 168,
+      "team2": "Sri Lanka",
+      "score2": 107,
+      "winner": "New Zealand"
+    },
+    {
+      "team1": "South Africa",
+      "score1": 154,
+      "team2": "Zimbabwe",
+      "score2": 153,
+      "winner": "South Africa"
+    },
+    {
+      "team1": "West Indies",
+      "score1": 195,
+      "team2": "India",
+      "score2": 199,
+      "winner": "India"
+    },
+  
+    {
+      "team1": "West Indies",
+      "score1": 195,
+      "team2": "India",
+      "score2": 199,
+      "winner": "India"
+    },
+  
+    {
+      "team1": "South Africa",
+      "score1": 169,
+      "team2": "New Zealand",
+      "score2": 173,
+      "winner": "New Zealand"
+    },
+    {
+      "team1": "India",
+      "score1": 253,
+      "team2": "England",
+      "score2": 246,
+      "winner": "India"
+    },
+    {
+      "team1": "England",
+      "score1": 161,
+      "team2": "New Zealand",
+      "score2": 159,
+      "winner": "England"
+    },
+    {
+      "team1": "Pakistan",
+      "score1": 212,
+      "team2": "Sri Lanka",
+      "score2": 207,
+      "winner": "Pakistan"
+    },
+  
+    {
+      "team1": "South Africa",
+      "score1": 169,
+      "team2": "New Zealand",
+      "score2": 173,
+      "winner": "New Zealand"
+    },
+    {
+      "team1": "South Africa",
+      "score1": 169,
+      "team2": "New Zealand",
+      "score2": 173,
+      "winner": "New Zealand"
+    },
+  
+    {
+      "team1": "South Africa",
+      "score1": 169,
+      "team2": "New Zealand",
+      "score2": 173,
+      "winner": "New Zealand"
+    },
+  
+    {
+      "team1": "South Africa",
+      "score1": 169,
+      "team2": "New Zealand",
+      "score2": 173,
+      "winner": "New Zealand"
+    },
+  
+    {
+      "team1": "India",
+      "score1": 255,
+      "team2": "New Zealand",
+      "score2": 159,
+      "winner": "India"
+    }
+  ]

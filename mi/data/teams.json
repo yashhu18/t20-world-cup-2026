@@ -1,0 +1,24 @@
+[
+    {"team": "India", "group": "A"},
+    {"team": "USA", "group": "A"},
+    {"team": "Namibia", "group": "A"},
+    {"team": "Netherlands", "group": "A"},
+    {"team": "Pakistan", "group": "A"},
+    {"team": "Australia", "group": "B"},
+    {"team": "Sri Lanka", "group": "B"},
+    {"team": "Zimbabwe", "group": "B"},
+    {"team": "Ireland", "group": "B"},
+    {"team": "Oman", "group": "B"},
+    {"team": "England", "group": "C"},
+    {"team": "West Indies", "group": "C"},
+    {"team": "Bangladesh", "group": "C"},
+    {"team": "Italy", "group": "C"},
+    {"team": "Nepal", "group": "C"},
+    {"team": "South Africa", "group": "D"},
+    {"team": "New Zealand", "group": "D"},
+    {"team": "Afghanistan", "group": "D"},
+    {"team": "Canada", "group": "D"},
+    {"team": "UAE", "group": "D"}
+  ] 
+
+  
